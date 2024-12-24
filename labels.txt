@@ -1,0 +1,11 @@
+30
+50
+70
+80
+left_turn
+no_entry
+right_turn
+stop
+traffic_sign_ahead
+20
+60
