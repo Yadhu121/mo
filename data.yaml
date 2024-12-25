@@ -1,4 +1,5 @@
-train: /home/Yadhu/mainProjectmain/model/Train/train.txt
+train: mo/train.txt
+val: mo/train.txt
 
 nc: 11
 
